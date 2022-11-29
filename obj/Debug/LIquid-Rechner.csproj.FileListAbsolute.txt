@@ -1,0 +1,8 @@
+D:\C# Lernen\LIquid-Rechner\LIquid-Rechner\bin\Debug\LIquid-Rechner.exe.config
+D:\C# Lernen\LIquid-Rechner\LIquid-Rechner\bin\Debug\LIquid-Rechner.exe
+D:\C# Lernen\LIquid-Rechner\LIquid-Rechner\bin\Debug\LIquid-Rechner.pdb
+D:\C# Lernen\LIquid-Rechner\LIquid-Rechner\obj\Debug\LIquid-Rechner.csproj.AssemblyReference.cache
+D:\C# Lernen\LIquid-Rechner\LIquid-Rechner\obj\Debug\LIquid-Rechner.csproj.SuggestedBindingRedirects.cache
+D:\C# Lernen\LIquid-Rechner\LIquid-Rechner\obj\Debug\LIquid-Rechner.csproj.CoreCompileInputs.cache
+D:\C# Lernen\LIquid-Rechner\LIquid-Rechner\obj\Debug\LIquid-Rechner.exe
+D:\C# Lernen\LIquid-Rechner\LIquid-Rechner\obj\Debug\LIquid-Rechner.pdb
